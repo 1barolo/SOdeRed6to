@@ -1,0 +1,18 @@
+1 Caracteristicas de un sistema operativo de red
+2. Instalacion de un sistema operativos Linux/Windows
+3. Fundamentos de Linux
+4. Creacion de usuarios y grupos de trabajo
+5. Acceso y bloqueo de cuentas de usuario
+6. Manipulacion de permisos grupos y propietarios
+7. Redireccionamientos de entrada salida y errores
+8. Filtrado de informacion mediante tuberias grupos de comandos y bifurcaciones
+9. Busqueda de expresiones en archivos 
+10. Gestion y manipulacion de procesos
+11. Deteccion e instalacion de componentes de hardware
+12. Instalacion y configuracion de gestores arranque (Lilo / Grub)
+13. Obtener listado de dispositivos presentes en el sistema
+14. Sistema de archivos (EXT4, REISER,NFS,FAT,NTFS). Fragmentacion de disco en Linux. 
+15. Obtencion de informacion del sistema.
+16. Montaje de particion windows automaticamente en ambientes mixtos.
+17. Configuracion de repositorios e intstalacion de paquetes
+18. Creacion y manipulacion de enlaces
