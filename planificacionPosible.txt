@@ -1,0 +1,107 @@
+Unidad 1 – Planificación de redes y evaluación de necesidades
+Planificación de una red local.
+
+Identificación de necesidades (usuarios, servicios, crecimiento futuro).
+
+Evaluación de equipo y rendimiento.
+
+Requisitos de aplicaciones.
+
+Selección de servidor.
+
+Actividad práctica: Diseñar un esquema de red en papel con topología y roles.
+
+Unidad 2 – Componentes y cableado
+Almacenamiento en disco (tipos y capacidad).
+
+Sistemas de copia de seguridad.
+
+Estaciones sin disco.
+
+Cableado de red (UTP, fibra, coaxial).
+
+Equipo de protección del sistema (UPS, protectores de sobretensión).
+
+Actividad práctica: Identificar y clasificar cables y equipos en el laboratorio.
+
+Unidad 3 – Rendimiento y cuellos de botella
+Microprocesador, bus del servidor, sistema de discos.
+
+Super servidores y sistemas multiprocesador (SMP/AMP).
+
+Identificación de cuellos de botella.
+
+Actividad práctica: Uso de herramientas para medir rendimiento del servidor.
+
+Unidad 4 – Protección de datos y equipos
+Problemas de alimentación y conexión a tierra.
+
+Técnicas de copia de seguridad.
+
+Procedimientos de recuperación.
+
+Actividad práctica: Configurar un script simple de backup.
+
+Unidad 5 – Instalación de hardware y configuración inicial
+Instalación de unidades y controladores de disco.
+
+Instalación de placas de red.
+
+Configuración de servidor (ubicación, montaje físico).
+
+Supresión de conflictos de IRQ y puertos E/S.
+
+Instalación de SAI.
+
+Actividad práctica: Montaje y configuración básica de un servidor de laboratorio.
+
+Unidad 6 – Instalación de red y sistema operativo
+Instalación de nuevos servidores.
+
+Carga del sistema operativo de red.
+
+Configuración de TCP/IP (IP, máscara, puerta de enlace, DNS).
+
+Diferencias entre dominios y grupos de trabajo.
+
+Actividad práctica: Configurar un servidor Linux o Windows con IP estática.
+
+Unidad 7 – Configuración de servicios de red
+Instalación y configuración de DNS, DHCP, FTP, correo electrónico.
+
+Configuración de firewall y acceso remoto.
+
+Introducción a Intranets.
+
+Actividad práctica: Montar un servidor DHCP y probar asignación de IP.
+
+Unidad 8 – Gestión de usuarios, permisos y seguridad
+Jerarquía de usuarios y privilegios.
+
+Derechos sobre archivos y directorios.
+
+Administración del sistema de archivos.
+
+Actividad práctica: Crear usuarios, grupos y asignar permisos en Linux.
+
+Unidad 9 – Impresión en red y monitoreo
+Conexiones de impresoras locales y de red.
+
+Colas y servidores de impresión.
+
+Introducción al monitoreo de red (CPU, memoria, disco, tráfico).
+
+Actividad práctica: Compartir una impresora en red y monitorizar con herramientas como htop o iftop.
+
+Unidad 10 – Mantenimiento y optimización
+Actividades posteriores a la instalación.
+
+Actualizaciones y parches.
+
+Personalización del servidor.
+
+Procedimientos de desconexión y recuperación.
+
+Prueba piloto y ajustes finales.
+
+Actividad práctica: Simular un mantenimiento programado con backup y actualización.
